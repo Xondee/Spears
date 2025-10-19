@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 69,
+        "min_format": [69, 0], "max_format": [88, 0],
+        "description": "A simple datapack that adds a copy of the spears from the snapshot 25w42a to older releases of the game."
+    }
+}
